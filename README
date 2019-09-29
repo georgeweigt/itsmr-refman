@@ -1,0 +1,7 @@
+This is the reference manual for 'itsmr', an R package for time series analysis.
+
+To build:
+
+	make
+
+The result is itsmr-refman.pdf
